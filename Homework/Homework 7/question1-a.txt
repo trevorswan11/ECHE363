@@ -1,0 +1,1 @@
+0=0.213Log[Divide[\(40)1+Divide[92*Power[10,5],Power[x,2]]\(41)\(40)Divide[x-91,82.05]\(41),623]]+Divide[28.785,Power[10,3]](((1+Divide[92*Power[10,5],Power[x,2]])(Divide[x-91,82.05]))-623)-Divide[8.824,2*Power[10,6]](Divide[1,Power[\(40)\(40)1+Divide[92*Power[10,5],Power[x,2]]\(41)\(40)Divide[x-91,82.05]\(41)\(41),-2]]-Divide[1,Power[623,-2]])+Log[Divide[x-91,600-91]]
