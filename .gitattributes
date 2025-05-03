@@ -1,3 +1,4 @@
 ECHE363[[:space:]]Textbook.pdf filter=lfs diff=lfs merge=lfs -text
 Resources/ECHE363[[:space:]]Textbook.pdf filter=lfs diff=lfs merge=lfs -text
 Assessments/Quiz[[:space:]]4/ECHE363[[:space:]]Quiz[[:space:]]4[[:space:]]Notes.pdf filter=lfs diff=lfs merge=lfs -text
+Assessments/Final/ECHE363[[:space:]]Final[[:space:]]Notes.pdf filter=lfs diff=lfs merge=lfs -text
